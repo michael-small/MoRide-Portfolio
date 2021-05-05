@@ -3,6 +3,8 @@ A centralized collection of my first agile experience's repos, with explanations
 
 Iteration repo names were fun internal names decided on by team of classmates.
 
+MAJOR NOTE: In retrospect, the security docs on Iteration 4 ("Endgame") are very wrong but better than what the class had for authentication and authorization.
+
 ## Iterations (archived, with all issues):
 
 1) [The Mechanical Keyboards](https://github.com/UMM-CSci-3601-S19/iteration-1-the-mechanical-keyboards)
